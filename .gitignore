@@ -1,5 +1,5 @@
 .venv/
 eowl/
 .idea/
-extra/
 *.txt
+extra/
