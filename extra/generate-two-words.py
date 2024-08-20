@@ -2,7 +2,7 @@ import itertools
 import time
 
 # Load the list of common words from a file
-with open('words.txt', 'r') as file:
+with open('../words.txt', 'r') as file:
     words = file.read().splitlines()
 
 # Generate all combinations of two words
