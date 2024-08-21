@@ -2,7 +2,7 @@
 Simple brute forcing program for thisisnotawebsitedotcom.com
 
 ## How to use it?
-- Create a file "words.txt" with all your words that you want to test.
+- Create a file "words.txt" with all your words that you want to test. (Please also use the wordlist cleaner https://github.com/chaseleto/gf_bruteforcing so you don't run already used wordlists)
 - Choose if you want to enable cooldowns or run the wordlist in reverse in the python file.
 - Run the script!
 
